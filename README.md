@@ -1,1 +1,1 @@
-Manually measuring the values ​​of the data with machine learning methods such as linear, lasso, xgboost, random forest, gradient boost regressor.
+Applied machine learning methods (linear regression, lasso, xgboost, random forest, gradient boosting) in Python and R to predict house prices.
